@@ -1,6 +1,6 @@
 
 -------------------------------------------------------------------------------------------------------
-#STIX PROJECT
+STIX PROJECT
 -------------------------------------------------------------------------------------------------------
 
 This is a README for the Stix project
@@ -9,11 +9,11 @@ This is a README for the Stix project
 DIRECTORY
 -------------------------------------------------------------------------------------------------------
 
-- PROJECT SOURCE
+- CODE
 - WINDOWS EXECUTABLES
 
 -------------------------------------------------------------------------------------------------------
-PROJECT SOURCE
+CODE
 -------------------------------------------------------------------------------------------------------
 
 Contains:
@@ -27,7 +27,7 @@ Feel free to look over any of the code in this folder
 Note that you may need to open them in Notepad++ if you do not have anything capable 
 of opening .as files
 
-You may also not be able to open the .fla files either, unless you possess Adobe Flash
+You may also not be able to open the .fla files either, unless you possess Adobe Flash software
 
 -------------------------------------------------------------------------------------------------------
 Windows Executables
