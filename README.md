@@ -49,13 +49,13 @@ To run the game, simply run "Stix Game.exe".
 The in-game menu is as follows
 
 STIX MENU
-	> Learning
-		> Mirrored Learning 	- practice mode (AI vs AI)
-		> Versus Random 	- practice mode (AI vs Random)
-	> Testing 			- match mode (AI vs Random)
-	? Free Use
-		> Training 		- practice mode (Human vs Dummy)
-		> Versus AI		- match mode (Human vs AI)
+- Learning
+	- Mirrored Learning 	- practice mode (AI vs AI)
+	- Versus Random 	- practice mode (AI vs Random)
+- Testing 			- match mode (AI vs Random)
+- Free Use
+	- Training 		- practice mode (Human vs Dummy)
+	- Versus AI		- match mode (Human vs AI)
 
 During any of the practice modes, 
 - feel free to exit at any point using the Back button at the bottom right 
@@ -71,13 +71,20 @@ Character Controls
 -------------------------------------------------------------------------------------------------------
 
 W - up input (on ground, jump)
+
 A - left input (on ground, walk left. double tap to dash left. in air, move left)
+
 S - down input (on ground, crouch)
+
 D - right input (on ground, walk right. double tap to dash right. in air, move right)
 
+
 P - punch
+
 K - kick
+
 O - block
+
 I - throw
 
 For a list of attack strings, please consult the AttackStrings.png image found in this folder.
