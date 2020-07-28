@@ -36,17 +36,17 @@ Windows Executables
 Contains:
 - All code used to develop Stix and the AI, developed in ActionScript3.0
 - The project .fla files
-	- "StateSpace_WinEXE.exe"	- the state space graph executable
-	- "Stix_WinEXE.exe"		- the Stix game executable
+	- "State Space Graph.exe"	- the state space graph executable
+	- "Stix Game.exe"		- the Stix game executable
 
 
 -------------------------------------------------------------------------------------------------------
 Stix Game
 -------------------------------------------------------------------------------------------------------
 
-To run the game, simply run "Stix_WinEXE.exe".
+To run the game, simply run "Stix Game.exe".
 
-The menu is as follows
+The in-game menu is as follows
 
 STIX MENU
 	> Learning
@@ -64,7 +64,7 @@ During any of the practice modes,
   automatically end after 1,000 agent decisions
 
 If you wish to see how state-action-value data is added to the state space during 
-AI practice sessions, make sure "StateSpace_WinEXE.exe" is also running
+AI practice sessions, make sure "State Space Graph.exe" is also running
 
 -------------------------------------------------------------------------------------------------------
 Character Controls
