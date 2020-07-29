@@ -227,12 +227,12 @@
 			
 			switch (gameMode) {
 				case "mirrored learning":	// AI vs AI - practice
-					stage.frameRate = 50;
+					stage.frameRate = 25;
 					agent1Controller = new AIController(new CharController(stage, this, player, this), stage, opponent, dispatcher, true, this);
 					agent2Controller = new AIController(new CharController(stage, this, opponent, this), stage, player, dispatcher, true, this);
 					break;
 				case "versus random":		// AI vs random - practice
-					stage.frameRate = 50;
+					stage.frameRate = 25;
 					agent1Controller = new AIController(new CharController(stage, this, player, this), stage, opponent, dispatcher, true, this);
 					randomController = new RandomController(new CharController(stage, this, opponent, this), stage, player, dispatcher);
 					break;
